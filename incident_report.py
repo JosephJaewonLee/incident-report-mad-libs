@@ -1,6 +1,5 @@
 import random
 
-
 print("=" * 40)
 print("       CYBER INCIDENT REPORT")
 print("=" * 40)
